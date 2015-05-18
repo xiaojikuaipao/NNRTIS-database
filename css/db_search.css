@@ -1,0 +1,87 @@
+
+.bar-title{
+  font-weight:bold;
+  font-family:arial,verdana,sans-serif;
+  font-size:18pt;
+  text-align:left;
+  font-style:italic;
+}
+
+.manner-title{
+  font-weight:bold;
+  font-family:arial,verdana,sans-serif;
+  font-size:15pt;
+  text-align:center;
+
+}
+
+.form-title{
+  font-weight:bold;
+  font-family:arial,verdana,sans-serif;
+  font-size:18pt;
+  text-align:center;
+
+}
+.form-content{
+  margin-left:180px;
+
+}
+.form{
+  margin-top:200px;
+}
+
+.instruction{
+  margin-top: 150px;
+}
+
+.list-group{
+  text-align:center;
+  margin-top:200px;
+  font-weight:bold;
+  font-family:arial,verdana,sans-serif;
+  font-size:14px;
+  margin-left: 20px;
+ 
+
+}
+
+.list-group-item{
+  background-color:#5bc0de;
+ 
+}
+
+.table-title {
+  font-size:18px;
+  font-family: arial,verdana,sans-serif;
+  text-align:center;
+  margin-left:10px;
+  font-weight: bold;
+
+}
+
+table{ 
+margin-left: 350px;
+background-color: #efefef;
+border-style: solid;
+border-width: 1px;
+border-color: #999999;
+width:150;
+}
+
+
+th{
+
+  padding:12px;
+  text-align:center;
+
+}
+
+td{
+
+padding-left: 25px;
+padding-right:25px;
+padding-top:6px;
+padding-bottom: 6px;
+text-align: center;
+
+}

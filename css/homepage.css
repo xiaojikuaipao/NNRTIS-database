@@ -1,0 +1,47 @@
+
+
+#header{
+	height: 50px;
+	color: #172322;
+
+}
+
+#header h1 {
+	padding:0;
+	margin:0;
+
+}
+
+body{
+	font-family:"Lucida Sans Unicode ","Lucida Grande",Sans-Serif;
+	color: #3E3E3E;
+	background: #94C5EB url(../images/background-grad.png) repeat-x;
+	font-size: 14px;
+	padding:0;
+	margin:0;
+	
+
+}
+
+#container{
+
+	margin:0 auto;
+	text-align:left;
+	width:650px;
+
+}
+
+#content{
+
+	padding: 0 15px 10px 15px;
+
+
+}
+
+#footer{
+
+	padding:15px;
+  
+  
+}
+
